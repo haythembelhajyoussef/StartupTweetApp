@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "StartupTweet": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
