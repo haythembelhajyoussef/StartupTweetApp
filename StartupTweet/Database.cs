@@ -27,5 +27,3 @@ namespace StartupTweet
         }
     }
 }
-//var client = new MongoClient("mongodb+srv://admin:admin@ehr-roxao.mongodb.net/test?retryWrites=true&w=majority");
-//var database = client.GetDatabase("Twitter");
